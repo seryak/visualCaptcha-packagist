@@ -1,150 +1,150 @@
 [
     {
-        "name": "Airplane",
+        "name": "Самолет",
         "path": "airplane.png"
     },
     {
-        "name": "Balloons",
+        "name": "Шарики",
         "path": "balloons.png"
     },
     {
-        "name": "Camera",
+        "name": "Фотоаппарат",
         "path": "camera.png"
     },
     {
-        "name": "Car",
+        "name": "Машина",
         "path": "car.png"
     },
     {
-        "name": "Cat",
+        "name": "Кошка",
         "path": "cat.png"
     },
     {
-        "name": "Chair",
+        "name": "Стул",
         "path": "chair.png"
     },
     {
-        "name": "Clip",
+        "name": "Скрепка",
         "path": "clip.png"
     },
     {
-        "name": "Clock",
+        "name": "Будильник",
         "path": "clock.png"
     },
     {
-        "name": "Cloud",
+        "name": "Облако",
         "path": "cloud.png"
     },
     {
-        "name": "Computer",
+        "name": "Ноутбук",
         "path": "computer.png"
     },
     {
-        "name": "Envelope",
+        "name": "Конверт",
         "path": "envelope.png"
     },
     {
-        "name": "Eye",
+        "name": "Глаз",
         "path": "eye.png"
     },
     {
-        "name": "Flag",
+        "name": "Флаг",
         "path": "flag.png"
     },
     {
-        "name": "Folder",
+        "name": "Папка",
         "path": "folder.png"
     },
     {
-        "name": "Foot",
+        "name": "Нога",
         "path": "foot.png"
     },
     {
-        "name": "Graph",
+        "name": "График",
         "path": "graph.png"
     },
     {
-        "name": "House",
+        "name": "Дом",
         "path": "house.png"
     },
     {
-        "name": "Key",
+        "name": "Ключ",
         "path": "key.png"
     },
     {
-        "name": "Leaf",
+        "name": "Лист",
         "path": "leaf.png"
     },
     {
-        "name": "Light Bulb",
+        "name": "Лампочка",
         "path": "light-bulb.png"
     },
     {
-        "name": "Lock",
+        "name": "Замок",
         "path": "lock.png"
     },
     {
-        "name": "Magnifying Glass",
+        "name": "Увеличитель",
         "path": "magnifying-glass.png"
     },
     {
-        "name": "Man",
+        "name": "Человек",
         "path": "man.png"
     },
     {
-        "name": "Music Note",
+        "name": "Музыкальная Нота",
         "path": "music-note.png"
     },
     {
-        "name": "Pants",
+        "name": "Штаны",
         "path": "pants.png"
     },
     {
-        "name": "Pencil",
+        "name": "Карандаш",
         "path": "pencil.png"
     },
     {
-        "name": "Printer",
+        "name": "Принтер",
         "path": "printer.png"
     },
     {
-        "name": "Robot",
+        "name": "Робот",
         "path": "robot.png"
     },
     {
-        "name": "Scissors",
+        "name": "Ножницы",
         "path": "scissors.png"
     },
     {
-        "name": "Sunglasses",
+        "name": "Солнечные очки",
         "path": "sunglasses.png"
     },
     {
-        "name": "Tag",
+        "name": "Бирка",
         "path": "tag.png"
     },
     {
-        "name": "Tree",
+        "name": "Дерево",
         "path": "tree.png"
     },
     {
-        "name": "Truck",
+        "name": "Грузовик",
         "path": "truck.png"
     },
     {
-        "name": "T-Shirt",
+        "name": "Футболка",
         "path": "t-shirt.png"
     },
     {
-        "name": "Umbrella",
+        "name": "Зонтик",
         "path": "umbrella.png"
     },
     {
-        "name": "Woman",
+        "name": "Женщина",
         "path": "woman.png"
     },
     {
-        "name": "World",
+        "name": "Глобус",
         "path": "world.png"
     }
 ]
